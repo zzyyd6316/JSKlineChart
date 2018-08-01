@@ -1,0 +1,22 @@
+{
+  "name": "JSKlineChart",
+  "version": "0.1.0",
+  "summary": "A short description of JSKlineChart.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zzyyd6316/JSKlineChart",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zzyyd6316": "zhangzeyang@xcloud.cc"
+  },
+  "source": {
+    "git": "https://github.com/zzyyd6316/JSKlineChart.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JSKlineChart/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module JSKlineChart {
+  umbrella header "JSKlineChart-umbrella.h"
+
+  export *
+  module * { export * }
+}

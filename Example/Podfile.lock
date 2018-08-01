@@ -1,0 +1,16 @@
+PODS:
+  - JSKlineChart (0.1.0)
+
+DEPENDENCIES:
+  - JSKlineChart (from `../`)
+
+EXTERNAL SOURCES:
+  JSKlineChart:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JSKlineChart: 82691aebcebfc7fe47281f6e5f0afab00b037671
+
+PODFILE CHECKSUM: bec852fcdaa103f91655cf2c7d0d60bd7791bf5b
+
+COCOAPODS: 1.2.1
