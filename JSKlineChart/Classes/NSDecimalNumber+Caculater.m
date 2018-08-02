@@ -86,7 +86,7 @@
 
 +(NSDecimalNumber*)getMyDec333:(NSString*)value{
     if (!value || value.length == 0) {
-        return [NSDecimalNumber decimalNumberWithString:@"22"];
+        return [NSDecimalNumber decimalNumberWithString:@"222"];
     }
     
     return [NSDecimalNumber decimalNumberWithString:value];
