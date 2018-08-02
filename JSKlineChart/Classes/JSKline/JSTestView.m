@@ -7,7 +7,7 @@
 //
 
 #import "JSTestView.h"
-#import <Masonry.h>
+#import "Masonry.h"
 
 @implementation JSTestView
 
