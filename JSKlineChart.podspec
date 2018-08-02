@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'JSKlineChart'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'JSKlineChart.'
 
 # This description is used to generate tags and improve search results.
@@ -37,6 +37,6 @@ TODO: Add long description of the pod here.
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  s.frameworks = 'UIKit'
-  s.dependency 'Masonry', '~> 1.1.0'
+  #s.frameworks = 'UIKit'
+  #s.dependency 'Masonry', '~> 1.1.0'
 end
