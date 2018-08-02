@@ -27,5 +27,6 @@
 +(NSDecimalNumber*)getDecNumberWithFloat:(CGFloat)value;
 
 +(NSDecimalNumber*)getMyDec:(NSString*)value;
++(NSDecimalNumber*)getMyDec222:(NSString*)value;
 
 @end

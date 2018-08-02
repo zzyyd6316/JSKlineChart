@@ -1,7 +1,7 @@
 {
   "name": "JSKlineChart",
   "version": "0.1.0",
-  "summary": "A short description of JSKlineChart.",
+  "summary": "JSKlineChart.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/zzyyd6316/JSKlineChart",
   "license": {
@@ -18,5 +18,9 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "JSKlineChart/Classes/**/*"
+  "source_files": "JSKlineChart/Classes/**/*",
+  "frameworks": [
+    "UIKit",
+    "MapKit"
+  ]
 }
