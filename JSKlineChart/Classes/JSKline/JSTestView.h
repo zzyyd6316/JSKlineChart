@@ -10,6 +10,7 @@
 
 @interface JSTestView : UIView
 
+
 -(instancetype)initWithFrame:(CGRect)frame andColor:(UIColor*)color;
 
 @end
