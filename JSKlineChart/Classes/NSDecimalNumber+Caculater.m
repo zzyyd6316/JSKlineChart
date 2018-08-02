@@ -88,6 +88,7 @@
     if (!value || value.length == 0) {
         return [NSDecimalNumber decimalNumberWithString:@"1"];
     }
+    
     return [NSDecimalNumber decimalNumberWithString:value];
 }
 
