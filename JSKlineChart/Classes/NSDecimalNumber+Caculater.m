@@ -84,4 +84,11 @@
     return [NSDecimalNumber decimalNumberWithString:value];
 }
 
++(NSDecimalNumber*)getMyDec333:(NSString*)value{
+    if (!value || value.length == 0) {
+        return [NSDecimalNumber decimalNumberWithString:@"1"];
+    }
+    return [NSDecimalNumber decimalNumberWithString:value];
+}
+
 @end
