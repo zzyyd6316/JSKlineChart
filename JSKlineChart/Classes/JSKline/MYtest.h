@@ -9,5 +9,6 @@
 #import <Foundation/Foundation.h>
 
 @interface MYtest : NSObject
+@property(nonatomic,strong)NSString*name;
 
 @end
